@@ -1,0 +1,6 @@
+order_id,customer_id,total_price,order_status
+1,1,299.99,Pending
+2,2,49.99,Shipped
+3,3,189.75,Delivered
+4,4,500,Pending
+5,5,79.99,Delivered
